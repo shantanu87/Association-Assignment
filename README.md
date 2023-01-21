@@ -1,1 +1,1 @@
-# Dimensionality-Reduction-with-PCA-Assignment
+# Association-Rule-Assignment
